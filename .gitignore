@@ -21,7 +21,7 @@ coverage
 
 # Public directory
 /ScrumSaga
-/
+/Test
 
 # Dependency directory
 .ipynb_checkpoints
