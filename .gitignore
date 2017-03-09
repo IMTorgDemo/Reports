@@ -20,7 +20,8 @@ coverage
 .env
 
 # Public directory
-/ScrumSaga
+/ScrumSaga-Py
+/ScrumSaga-R
 /Test
 
 # Dependency directory
